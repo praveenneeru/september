@@ -5,3 +5,9 @@ class job
 	int deadline; //deadline
 	int profit; //profit of the job
 };
+for(int j=(obj[i]->deadline)-1;j>=0;j--)
+{
+	if(slot[j]==false){	// slot is empty
+				
+	// count the total profit
+		profit+=obj[i]->profit;
