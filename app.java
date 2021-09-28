@@ -17,3 +17,4 @@ bool mycompare(job *x,job *y)//boolean function
     return x->profit>y->profit; 
 }
 sort(obj,obj+n,mycompare);
+hi hello
